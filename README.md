@@ -1,2 +1,2 @@
 # -Weather-App-
-Weather App using Java script
+Weather App <br> using Java script
